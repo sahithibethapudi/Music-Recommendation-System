@@ -6,8 +6,8 @@ Music recommendation systems have become integral to digital music platforms, en
 
 ## Datasets
 The datasets used in this project are obtained from the Spotify Web API using the SpotiPy library. The main datasets include:
-	•	Songs Data: Contains song details such as song name, artist, release date, and genre.
-	•	Audio Features Data: Contains audio features for each song such as tempo, danceability, and energy.
+- Songs Data: Contains song details such as song name, artist, release date, and genre.
+- Audio Features Data: Contains audio features for each song such as tempo, danceability, and energy.
 
 ## Preprocessing
 The data preprocessing involves cleaning, normalizing, and feature engineering. Steps include:
